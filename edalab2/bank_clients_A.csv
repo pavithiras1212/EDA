@@ -1,0 +1,16 @@
+client_id,age,job,marital,education,balance,housing,loan,subscribed
+1,34,admin,single,university.degree,1500,yes,no,yes
+2,45,blue-collar,married,high.school,800,yes,yes,no
+3,29,technician,single,university.degree,2100,no,no,yes
+4,52,services,divorced,basic.9y,300,yes,no,no
+5,41,management,married,university.degree,5200,no,no,yes
+6,38,technician,single,professional.course,1800,yes,no,yes
+7,60,retired,married,basic.4y,9800,no,no,yes
+8,27,student,single,university.degree,100,no,no,no
+9,48,entrepreneur,divorced,high.school,640,yes,yes,no
+10,35,admin,married,university.degree,2300,yes,no,yes
+11,55,housemaid,married,basic.4y,450,yes,no,no
+12,43,self-employed,single,professional.course,3100,no,no,no
+13,31,unemployed,single,high.school,200,no,yes,no
+14,50,management,married,university.degree,7600,no,no,yes
+15,26,student,single,university.degree,80,no,no,no
